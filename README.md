@@ -1,4 +1,4 @@
-# locust-ccnclient
+# [locust-ccnclient](https://github.com/josecastillolema/locust-ccnclient)
 
 A [Locust](https://locust.io/) CCN client compatible with [ccn-lite](https://github.com/cn-uofbasel/ccn-lite).
 
