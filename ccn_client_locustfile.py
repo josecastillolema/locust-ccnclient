@@ -18,7 +18,7 @@ import ccnlite.ndn2013 as ndn
 def printIt(pkts):
     if pkts != None and pkts[0] != None:
         name, content = ndn.parseData(cStringIO.StringIO(pkts[0]))
-        print content
+        print (content)
 
 
 def stopwatch(func):
