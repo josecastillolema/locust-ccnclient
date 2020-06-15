@@ -1,5 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/josecastillolema/locust-ccnclient)
 ![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/locust-ccnclient)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/josecastillolema/locust-ccnclient/locust)
 [![Requirements Status](https://requires.io/github/josecastillolema/locust-ccnclient/requirements.svg?branch=master)](https://requires.io/github/josecastillolema/locust-ccnclient/requirements/?branch=master)
 
 
