@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/josecastillolema/locust-ccnclient)
+![GitHub language count](https://img.shields.io/github/languages/count/josecastillolema/locust-ccnclient)
+![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/locust-ccnclient)
+
 # locust-ccnclient
 
 A [Locust](https://locust.io/) CCN client compatible with [ccn-lite](https://github.com/cn-uofbasel/ccn-lite).
