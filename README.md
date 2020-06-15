@@ -1,5 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/josecastillolema/locust-ccnclient)
 ![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/locust-ccnclient)
+[![Requirements Status](https://requires.io/github/josecastillolema/locust-ccnclient/requirements.svg?branch=master)](https://requires.io/github/josecastillolema/locust-ccnclient/requirements/?branch=master)
+
 
 # locust-ccnclient
 
