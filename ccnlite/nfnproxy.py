@@ -83,7 +83,7 @@ class NFNproxy(object):
         self._access = client.Access()
         self._access.connect(gwIP, gwPort)
 
-        print "NFN proxy server listening on UDP port", listenPort, "."
+        print ("NFN proxy server listening on UDP port", listenPort, ".")
 
         while True:
             pkt, addr = self._sock.recvfrom(8192)
